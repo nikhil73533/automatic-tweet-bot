@@ -1,7 +1,7 @@
 # TweetPro - Automated Tweet Posting Bot
 
 ## Overview
-TweetPro is an automated tweet posting bot that leverages LLM (Large Language Model) and the Twitter API to generate and post tweets. This guide will walk you through the setup and configuration of the project.
+TweetPro is an automated tweet posting bot that leverages LLM (Large Language Model) and the Selenium automation tool to generate and post tweets. This guide will walk you through the setup and configuration of the project.
 
 ## Prerequisites
 Before setting up the project, ensure you have the following installed:
