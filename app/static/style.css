@@ -1,0 +1,26 @@
+body {
+  background: #eef2f7;
+  transition: background 0.3s, color 0.3s;
+}
+
+.dark-mode {
+  background: #1e1e1e;
+  color: #ddd;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.btn-outline-primary {
+  border-width: 2px;
+}
+
+.btn-primary, .btn-secondary {
+  border-radius: 50px;
+}

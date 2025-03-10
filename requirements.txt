@@ -1,0 +1,13 @@
+Flask
+flask-mail
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+Wikipedia-API
+duckduckgo-search
+email-validator
+smtplib
+selenium
+python-dotenv
+apscheduler
